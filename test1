@@ -1,0 +1,7 @@
+<html>
+<head></head>
+<body>
+<div id = "flag"></div>
+<script>getElementById("flag").innerHTML = iface.getFlagPath()</script>
+</body>
+</html>
